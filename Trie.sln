@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trie", "Trie\Trie.vcxproj", "{A483F42A-F0C7-42F0-B8F4-314B1963DCB9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpellTester", "SpellTester\SpellTester.vcxproj", "{065CE4D2-78FA-4651-905C-FD95520A472F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A483F42A-F0C7-42F0-B8F4-314B1963DCB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A483F42A-F0C7-42F0-B8F4-314B1963DCB9}.Debug|Win32.Build.0 = Debug|Win32
+		{A483F42A-F0C7-42F0-B8F4-314B1963DCB9}.Release|Win32.ActiveCfg = Release|Win32
+		{A483F42A-F0C7-42F0-B8F4-314B1963DCB9}.Release|Win32.Build.0 = Release|Win32
+		{065CE4D2-78FA-4651-905C-FD95520A472F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{065CE4D2-78FA-4651-905C-FD95520A472F}.Debug|Win32.Build.0 = Debug|Win32
+		{065CE4D2-78FA-4651-905C-FD95520A472F}.Release|Win32.ActiveCfg = Release|Win32
+		{065CE4D2-78FA-4651-905C-FD95520A472F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
